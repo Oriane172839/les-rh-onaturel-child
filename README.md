@@ -1,7 +1,7 @@
 # Les RH O’naturel — WordPress Showcase Website
 
 Showcase website developed with WordPress to present human resources and nature-based wellbeing support services.  
-Live website: https://www.lesrhonaturel.fr/
+**Live website:** https://www.lesrhonaturel.fr/
 
 ## Project Goal
 
